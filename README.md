@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python | IoT | UI/UX Designing
 - 🌱 I’m currently learning UI/UX Designing at LnB Pvt.Ltd
 - 💞️ I’m looking to collaborate on Web developers and App Developer
-- 📫 You can reach me through linkedin https://linkedin.com/divindass709
+- 📫 You can reach me through linkedin https://www.linkedin.com/in/divindass709
 
 <!---
 Termuxcoder/Termuxcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
